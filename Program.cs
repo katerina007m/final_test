@@ -7,3 +7,5 @@
     Console.WriteLine();
 }
 
+string[] array1 = new string[5] { "123", "yes", "no", "world", "res" };
+string[] array2 = new string[array1.Length];
